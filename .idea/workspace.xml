@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e058aca-9bdb-4bad-b792-233562a99b7d" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/pages/FAQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/pages/OrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/tests/FAQtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/tests/OrderButtonBottomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/tests/OrderButtonTopTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mary-Belova"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Mary-Belova/Final_project_of_sprint_4",
+    "accountId": "a95d7c5a-8aeb-4c64-967a-8551296e3727"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ken4WcG7RVcrn8KEVNazkiwAuu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.FAQtest (1).executor": "Run",
+    "JUnit.FAQtest.testFAQ.executor": "Run",
+    "JUnit.OrderButtonBottomTest.createOrderTestBottom.executor": "Run",
+    "JUnit.OrderButtonBottomTest.executor": "Run",
+    "JUnit.OrderButtonTopTest.executor": "Run",
+    "JUnit.OrderTestsChrome.checkImportantQuestionsDropdown.executor": "Run",
+    "JUnit.OrderTestsChrome.executor": "Run",
+    "JUnit.OrderTestsChrome2 (1).executor": "Run",
+    "JUnit.OrderTestsChrome2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Masha/Projects/Final_project_of_sprint_4/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.OrderButtonBottomTest.createOrderTestBottom">
+    <configuration name="FAQtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project_of_sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.praktikum.solution.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.praktikum.solution.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.praktikum.solution.tests.FAQtest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FAQtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project_of_sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum.tests" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.tests.FAQtest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FAQtest.testFAQ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project_of_sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum.tests" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.tests.FAQtest" />
+      <option name="METHOD_NAME" value="testFAQ" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderButtonBottomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project_of_sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum.tests" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.tests.OrderButtonBottomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderButtonBottomTest.createOrderTestBottom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project_of_sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum.tests" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.tests.OrderButtonBottomTest" />
+      <option name="METHOD_NAME" value="createOrderTestBottom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderButtonTopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project_of_sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum.tests" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.tests.OrderButtonTopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderButtonBottomTest.createOrderTestBottom" />
+        <item itemvalue="JUnit.FAQtest.testFAQ" />
+        <item itemvalue="JUnit.OrderButtonBottomTest" />
+        <item itemvalue="JUnit.OrderButtonTopTest" />
+        <item itemvalue="JUnit.FAQtest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e058aca-9bdb-4bad-b792-233562a99b7d" name="Changes" comment="" />
+      <created>1723652721237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723652721237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
